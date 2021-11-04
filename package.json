@@ -2,6 +2,7 @@
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zingrad.github.io/DT_Money/",
   "dependencies": {
     "axios": "^0.24.0",
     "miragejs": "^0.1.42",
@@ -21,13 +22,15 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@types/styled-components": "^5.1.14",
+    "gh-pages": "^3.2.3",
     "typescript": "^4.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "publicar": "npm run build && ./node_modules/.bin/gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
