@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/DT_Money/static/js/main.ca7e359e.chunk.js",
+    "main.js.map": "/DT_Money/static/js/main.ca7e359e.chunk.js.map",
+    "runtime-main.js": "/DT_Money/static/js/runtime-main.8d3b8bca.js",
+    "runtime-main.js.map": "/DT_Money/static/js/runtime-main.8d3b8bca.js.map",
+    "static/js/2.cbd909fb.chunk.js": "/DT_Money/static/js/2.cbd909fb.chunk.js",
+    "static/js/2.cbd909fb.chunk.js.map": "/DT_Money/static/js/2.cbd909fb.chunk.js.map",
+    "index.html": "/DT_Money/index.html",
+    "static/js/2.cbd909fb.chunk.js.LICENSE.txt": "/DT_Money/static/js/2.cbd909fb.chunk.js.LICENSE.txt",
+    "static/media/close.f62862c6.svg": "/DT_Money/static/media/close.f62862c6.svg",
+    "static/media/income.d58effe2.svg": "/DT_Money/static/media/income.d58effe2.svg",
+    "static/media/logo.614d71d1.svg": "/DT_Money/static/media/logo.614d71d1.svg",
+    "static/media/outcome.6eb96d30.svg": "/DT_Money/static/media/outcome.6eb96d30.svg",
+    "static/media/total.e90c2d1e.svg": "/DT_Money/static/media/total.e90c2d1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3b8bca.js",
+    "static/js/2.cbd909fb.chunk.js",
+    "static/js/main.ca7e359e.chunk.js"
+  ]
+}
